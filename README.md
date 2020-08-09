@@ -9,3 +9,7 @@ Readings in Machine Learning and Systems
 
 1. [INSIDE NVIDIA'S AI INFRASTRUCTURE FOR SELF-DRIVING CARS(HINT: IT’S ALL ABOUT THE DATA)](https://developer.download.nvidia.cn/video/gputechconf/gtc/2019/presentation/s9649-inside-nvidia-ai-infrastructure-for-self-driving-cars.pdf), 2019 nvidia gtc
 
+
+## AutoML
+1. [Neural Architecture Search: A Survey](https://arxiv.org/abs/1808.05377)
+1. [Efﬁcient Neural Architecture Search via Parameter Sharing](https://arxiv.org/abs/1802.03268)
